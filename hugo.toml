@@ -5,16 +5,17 @@ title = "enzo"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
+  titleCutting = false
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
+  name = "photos"
+  url = "photos/"
+
+  [[params.navlinks]]
   name = "projects"
   url = "projects/"
   
-  [[params.navlinks]]
-  name = "photos"
-  url = "photos/"

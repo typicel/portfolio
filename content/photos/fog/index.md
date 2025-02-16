@@ -1,6 +1,5 @@
 +++
 image = "fog.jpg"
-title = "fog"
 type = "gallery"
+title = "fog"
 +++
-

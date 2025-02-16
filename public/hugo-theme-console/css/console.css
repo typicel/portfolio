@@ -62,15 +62,17 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-	--background-color:#fff;
-	--font-color:#151515;
-	--invert-font-color:#fff;
-	--primary-color:#971ae0;
-	--secondary-color:#727578;
-	--error-color:#d20962;
-	--progress-bar-background:#727578;
-	--progress-bar-fill:#151515;
-	--code-bg-color:#e8eff2;
+	--background-color: #222225;
+	--page-width: 60em;
+	--font-color: #e8e9ed;
+	--invert-font-color: #222225;
+	--secondary-color: #a3abba;
+	--tertiary-color: #a3abba;
+	--primary-color: #c669d8;
+	--error-color: #ff3c74;
+	--progress-bar-background: #3f3f44;
+	--progress-bar-fill: #62c4ff;
+	--code-bg-color: #3f3f44;
     }
 }
 
@@ -202,8 +204,6 @@ figure {
 
 .image-grid {
     display: grid;
-    grid-template-rows: auto;
-    display: grid;
     grid-gap: 1em;
     grid-template-rows: masonry;
     grid-template-columns: repeat(
@@ -311,4 +311,31 @@ figure {
         margin-top: 50px;
         padding-top: 5px;
     }
+}
+
+.social-media-links {
+    display: flex;
+    gap: 10px;
+}
+
+.social-button {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #2c2a2a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+}
+
+.social-button svg {
+    width: 70%;
+    height: 70%;
+}
+
+.social-button:hover {
+    background-color: #413d3d;
 }

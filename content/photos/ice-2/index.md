@@ -1,7 +1,5 @@
 +++
-image = "ice-2.jpg"
-name = "ice-2"
+# image = "ice-2.jpg"
 type = "gallery"
+title = "ice-2"
 +++
-
-
