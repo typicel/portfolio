@@ -1,4 +1,4 @@
-baseurl = "https://enzottic.me/"
+baseURL = "https://enzottic.me/"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 title = "enzo"
@@ -13,9 +13,9 @@ title = "enzo"
 
   [[params.navlinks]]
   name = "photos"
-  url = "/photos"
+  url = "photos/"
 
   [[params.navlinks]]
   name = "projects"
-  url = "/projects"
+  url = "projects/"
   

@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on enzo</title>
-    <link>//localhost:1313/photos/</link>
+    <link>http://localhost:1313/photos/</link>
     <description>Recent content in Photos on enzo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bench</title>
-      <link>//localhost:1313/photos/bench-2/</link>
+      <link>http://localhost:1313/photos/bench-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/bench-2/</guid>
+      <guid>http://localhost:1313/photos/bench-2/</guid>
       <description>&lt;p&gt;Shot on Cinestill 400D&lt;/p&gt;</description>
     </item>
     <item>
       <title>bench</title>
-      <link>//localhost:1313/photos/bench/</link>
+      <link>http://localhost:1313/photos/bench/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/bench/</guid>
+      <guid>http://localhost:1313/photos/bench/</guid>
       <description>&lt;p&gt;Shot on Ilford HP5&lt;/p&gt;</description>
     </item>
     <item>
       <title>bird</title>
-      <link>//localhost:1313/photos/bird/</link>
+      <link>http://localhost:1313/photos/bird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/bird/</guid>
+      <guid>http://localhost:1313/photos/bird/</guid>
       <description></description>
     </item>
     <item>
       <title>botanic</title>
-      <link>//localhost:1313/photos/botanic/</link>
+      <link>http://localhost:1313/photos/botanic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/botanic/</guid>
+      <guid>http://localhost:1313/photos/botanic/</guid>
       <description>&lt;p&gt;Shot on Kodak Gold&lt;/p&gt;</description>
     </item>
     <item>
       <title>cabin</title>
-      <link>//localhost:1313/photos/cabin/</link>
+      <link>http://localhost:1313/photos/cabin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/cabin/</guid>
+      <guid>http://localhost:1313/photos/cabin/</guid>
       <description>&lt;p&gt;Shot on Kodak Ektar 100&lt;/p&gt;</description>
     </item>
     <item>
       <title>ceasar</title>
-      <link>//localhost:1313/photos/ceasar/</link>
+      <link>http://localhost:1313/photos/ceasar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/ceasar/</guid>
+      <guid>http://localhost:1313/photos/ceasar/</guid>
       <description>&lt;p&gt;Shot on Cinestill 800T&lt;/p&gt;</description>
     </item>
     <item>
       <title>elk</title>
-      <link>//localhost:1313/photos/elk/</link>
+      <link>http://localhost:1313/photos/elk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/elk/</guid>
+      <guid>http://localhost:1313/photos/elk/</guid>
       <description></description>
     </item>
     <item>
       <title>fog</title>
-      <link>//localhost:1313/photos/fog/</link>
+      <link>http://localhost:1313/photos/fog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/fog/</guid>
+      <guid>http://localhost:1313/photos/fog/</guid>
       <description></description>
     </item>
     <item>
       <title>fruit</title>
-      <link>//localhost:1313/photos/fruit/</link>
+      <link>http://localhost:1313/photos/fruit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/fruit/</guid>
+      <guid>http://localhost:1313/photos/fruit/</guid>
       <description></description>
     </item>
     <item>
       <title>humming</title>
-      <link>//localhost:1313/photos/humming/</link>
+      <link>http://localhost:1313/photos/humming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/humming/</guid>
+      <guid>http://localhost:1313/photos/humming/</guid>
       <description></description>
     </item>
     <item>
       <title>ice-1</title>
-      <link>//localhost:1313/photos/ice-1/</link>
+      <link>http://localhost:1313/photos/ice-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/ice-1/</guid>
+      <guid>http://localhost:1313/photos/ice-1/</guid>
       <description></description>
     </item>
     <item>
       <title>ice-2</title>
-      <link>//localhost:1313/photos/ice-2/</link>
+      <link>http://localhost:1313/photos/ice-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/ice-2/</guid>
+      <guid>http://localhost:1313/photos/ice-2/</guid>
       <description></description>
     </item>
     <item>
       <title>monument</title>
-      <link>//localhost:1313/photos/monument/</link>
+      <link>http://localhost:1313/photos/monument/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/monument/</guid>
+      <guid>http://localhost:1313/photos/monument/</guid>
       <description>&lt;p&gt;Shot on Portra 160&lt;/p&gt;</description>
     </item>
     <item>
       <title>owl</title>
-      <link>//localhost:1313/photos/owl/</link>
+      <link>http://localhost:1313/photos/owl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/owl/</guid>
+      <guid>http://localhost:1313/photos/owl/</guid>
       <description></description>
     </item>
     <item>
       <title>park</title>
-      <link>//localhost:1313/photos/park/</link>
+      <link>http://localhost:1313/photos/park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/park/</guid>
+      <guid>http://localhost:1313/photos/park/</guid>
       <description></description>
     </item>
     <item>
       <title>rock</title>
-      <link>//localhost:1313/photos/rock/</link>
+      <link>http://localhost:1313/photos/rock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/rock/</guid>
+      <guid>http://localhost:1313/photos/rock/</guid>
       <description>&lt;p&gt;Shot on Kodak Ektar 100&lt;/p&gt;</description>
     </item>
     <item>
       <title>seattle</title>
-      <link>//localhost:1313/photos/seattle/</link>
+      <link>http://localhost:1313/photos/seattle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photos/seattle/</guid>
+      <guid>http://localhost:1313/photos/seattle/</guid>
       <description></description>
     </item>
   </channel>
