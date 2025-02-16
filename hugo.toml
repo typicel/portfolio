@@ -13,9 +13,9 @@ title = "enzo"
 
   [[params.navlinks]]
   name = "photos"
-  url = "photos/"
+  url = "/photos"
 
   [[params.navlinks]]
   name = "projects"
-  url = "projects/"
+  url = "/projects"
   
