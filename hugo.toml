@@ -1,4 +1,4 @@
-baseurl = "enzottic.me"
+baseurl = "https://enzottic.me/"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 title = "enzo"
