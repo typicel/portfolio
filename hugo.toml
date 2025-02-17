@@ -18,4 +18,7 @@ title = "enzo"
   [[params.navlinks]]
   name = "projects"
   url = "projects/"
+
+[markup.goldmark.renderer]
+unsafe = true
   
